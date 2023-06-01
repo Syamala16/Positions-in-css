@@ -1,0 +1,14 @@
+.parent{
+    background:burlywood;
+    height: 1500px ;
+}
+#tenthchild{
+    background:purple;
+    position:fixed;
+    top:30px;
+}
+#fifteenthchild{
+    background:red;
+    position:sticky;
+    top:30px;
+}
